@@ -1,2 +1,2 @@
 # javascript-guess-number-project
-guess number
+[]() https://emreeken183425.github.io/javascript-guess-number-project/
